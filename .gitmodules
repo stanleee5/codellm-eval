@@ -1,0 +1,4 @@
+[submodule "modules/evalplus"]
+	path = modules/evalplus
+	url = https://github.com/stanleee5/evalplus.git
+	branch = fix/v0.3.1
