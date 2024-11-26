@@ -2,3 +2,6 @@
 	path = modules/evalplus
 	url = https://github.com/stanleee5/evalplus.git
 	branch = fix/v0.3.1
+[submodule "modules/Qwen2.5-Coder"]
+	path = modules/Qwen2.5-Coder
+	url = https://github.com/stanleee5/Qwen2.5-Coder.git
